@@ -17,8 +17,8 @@ A simple Node.js script that allows users to manage their GitHub repositories di
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
-   cd repo-name
+   git clone https://github.com/Anurag-singh-thakur/GitHub-Repository-Manager.git
+   cd GitHub-Repository-Manager
    ```
 
 2. Install the required packages:
